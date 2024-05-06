@@ -1,0 +1,16 @@
+.form-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-row .mat-raised-button {
+  margin-top: 16px; /* Ajusta el margen superior de los botones */
+}
+
+.form-row .mat-form-field {
+  margin-bottom: 16px; /* Ajusta el margen inferior de los campos de formulario */
+}
+
+.form-row #age-form-field {
+  width: 100%; /* Establece el ancho del campo de edad al 100% */
+}
